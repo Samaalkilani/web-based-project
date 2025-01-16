@@ -12,4 +12,4 @@ Participants:
   zaina mhmmoud skafi ID: 202312026
   khalad alalami ID:202220480
 
-GitHub link:https:https://github.com/Samaalkilani/web-based-project/tree/main
+GitHub link:https://github.com/Samaalkilani/web-based-project
